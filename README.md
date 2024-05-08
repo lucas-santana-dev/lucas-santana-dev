@@ -15,7 +15,7 @@ Muito prazer, sou Lucas Santana, um desenvolvedor de aplicativos mobile apaixona
 ## Conecte-se Comigo
 
 [![Linkedin: Lucas Santana](https://img.shields.io/badge/-Lucas%20Santana-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santana-130705191)](https://www.linkedin.com/in/lucas-santana-130705191)
-[![Instagram: Lucas S. Inf](https://img.shields.io/badge/-@lucas.s.inf-e4405f?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas.s.inf)](https://www.instagram.com/lucas.s.inf)
+[![Instagram: Lucas S. Inf](https://img.shields.io/badge/-@lucas.s.inf-e4405f?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas.s.inf)](https://www.instagram.com/lucassantana.dev)
 
 ## Minhas Skills
 
